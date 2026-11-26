@@ -1,0 +1,8 @@
+{
+  "name": " ClearReel",
+  "description": "Video downloader, format converter, and watermark removal studio with live split-screen preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
